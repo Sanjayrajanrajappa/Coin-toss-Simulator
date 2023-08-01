@@ -16,7 +16,7 @@
 ### => Method From Random Module
 
 # Code Review:
-''' python
+``` python
 import random 
-'''
+```
 
