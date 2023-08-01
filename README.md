@@ -15,4 +15,8 @@
 ### => Print 
 ### => Method From Random Module
 
+# Code Review:
+''' python
+import random 
+'''
 
