@@ -7,3 +7,12 @@
 ### Code Review 
 ### Outputs
 
+# Used Modules,Functions,etc:
+### *Random Module
+### *Variable Assignment 
+### *List 
+### *Multiline Strings 
+### *Print 
+### *Method From Random Module
+
+
