@@ -50,7 +50,7 @@ print(“\n”,random.choice(cointoss))
 
 ![zx](https://github.com/Sanjayrajanrajappa/Coin-toss-Simulator/assets/91653459/dadd1979-4680-43d7-9412-94ee9b6c52f1)
 
-# Thank You
+# *Thank You!*
 
 
 
