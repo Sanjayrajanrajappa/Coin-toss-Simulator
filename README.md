@@ -1,4 +1,3 @@
-![image](https://github.com/Sanjayrajanrajappa/Coin-toss-Simulator/assets/91653459/77993888-402f-4efa-81be-d891b04073da)
 # Coin-toss-Simulator
 ## Description
 ### The Coin-toss-Simulator is a simple and fun way to simulate a coin being tossed virtually and getting the outputs *Head* and *Tail*.
