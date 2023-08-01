@@ -16,7 +16,7 @@
 ### => Method From Random Module
 
 # Code Review:
-``` python
+```jsx:python
 import random 
 ```
 
