@@ -46,17 +46,11 @@ print(“\n”,random.choice(cointoss))
 ## .choice() function call or method returns a random element from the given sequence.
 
 # Output:
-###   **   **  ******      *****       ******
-###   **   **  **       **       **    **     **
-###   *******  ******   ***********    **       **
-###   **   **  **	     **        **   **     **
-###   **   **  ******   **        **   ******
+![dff](https://github.com/Sanjayrajanrajappa/Coin-toss-Simulator/assets/91653459/3344fa96-b2d5-41a5-87fa-852986b8c918)
 
-###   *******       *****     ******   **
-###      **       **      **    **     **
-###      **       **********    **     **    
-###      **       **      **    **     ******
-###      **       **      **  ******   ******
+![dff](https://github.com/Sanjayrajanrajappa/Coin-toss-Simulator/assets/91653459/763b729f-9c6a-4a3a-a564-6ec38b3225ba)
+
+
 
 
 # Thank You
