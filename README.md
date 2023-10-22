@@ -47,6 +47,7 @@ print(“\n”,random.choice(cointoss))
 
 # Output:
 ![dff](https://github.com/Sanjayrajanrajappa/Coin-toss-Simulator/assets/91653459/3344fa96-b2d5-41a5-87fa-852986b8c918)
+![dff](C:\Users\DELL\OneDrive\Desktop\HALF.png)
 
 ![zx](https://github.com/Sanjayrajanrajappa/Coin-toss-Simulator/assets/91653459/dadd1979-4680-43d7-9412-94ee9b6c52f1)
 
